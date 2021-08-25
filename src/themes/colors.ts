@@ -1,0 +1,25 @@
+const Colors = {
+  active: '#f15a24',
+  grey: '#dedede',
+  lightGrey: '#fafafa',
+  green: '#0aaa5a',
+  articleSectionTextColor: '#999999',
+  dividerColor: '#dadae2',
+  linkDividerColor: '#707070',
+  dotColor: '#cdcdcd',
+  activeDotColor: '#0d0d0d',
+  tableRowOddColor: '#f2f2f2',
+  tableHeaderCellColor: '#666666',
+  selectBoxTextColor: '#909090',
+  scoreTableBorder: '#c8c8c8',
+  blue: '#096CBE',
+  black: '#000000',
+  white: '#ffffff',
+  popupHeaderColor: '#111111',
+  headerCellBg: '#f5f5f8',
+  overlayColor: 'rgba(255, 255, 255, 1.0)',
+  modalSubject: '#959595',
+  pageBackground: '#F2F2F2',
+}
+
+export default Colors
